@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">example1-appMobileJava</string>
+    <string name="txtName">Ingrese su nombre:</string>
+    <string name="btnAceptar">Aceptar</string>
+</resources>
